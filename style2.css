@@ -1,0 +1,119 @@
+
+
+
+
+body {
+    background-color: rgb(244, 245, 246);
+    width: 100vh;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+
+}
+    
+.mgb {
+    background-image: linear-gradient(hsl(255, 89%, 58%), hsl(241, 84%, 51%));
+    border-radius: 13px;
+    text-align: center;
+    color:hwb(241 78% 0%);
+    font-size: 13px;
+    font-weight: 500px;
+    width: 15rem;
+    padding:15px 10px;
+
+    
+}
+.emg{
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 50%;
+    padding: 20px 20px;
+    width: 100px;
+    margin: auto;
+    background-image: linear-gradient( hsl(241, 76%, 46%),hsl(255, 89%, 56%));
+}
+.btn {
+    font-size: 4rem;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700px;
+}
+h1 {
+    color: hsl(0, 0%, 100%); 
+
+} 
+
+
+
+.sumg {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 13px;
+    font-size: 13px;
+    font-weight: 500px;
+    width: 15rem;
+    padding:30px 23px;
+    height: auto;
+
+
+}
+.col1 {
+    border: 1px;
+    background-color:rgb(255, 241, 243);
+    padding: 6px;
+    border-radius: 8px;
+    font-size: 13px;
+}
+.react {
+    color: hsl(0, 100%, 67%);
+    padding: 15px;
+}
+.col2 {
+    border: 1px;
+    background-color: hsla(0, 78%, 96%, 0.368);
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 13px;
+}
+.mem {
+    color: hsl(39, 100%, 56%);
+    padding: 15px;
+}
+.col3 {
+    border: 1px;
+    background-color: hsla(165, 67%, 93%, 0.426) ;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 13px;
+}
+.ver {
+    color:  hsl(166, 100%, 37%) ;
+    padding: 15px;
+    
+}.col4 {
+    border: 1px;
+    background-color: rgba(176, 177, 182, 0.244)  ;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 13px;
+}
+.vis {
+    color: hsl(234, 85%, 45%);
+    padding: 15px;
+}
+.con {
+    border: 1px;
+    background-image: linear-gradient(hsl(255, 89%, 56%),  hsl(241, 76%, 46%)) ;
+    padding: 10px;
+    border-radius: 50px;
+    width: 30%px;
+    color:hsl(241, 100%, 89%) ;
+    text-align: center;
+} 
